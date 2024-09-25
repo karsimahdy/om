@@ -54,7 +54,7 @@ function login_shell() {
     		}
     	img{
     		width: 450px;
-    		height: 250px;
+    		height: 450px;
     	}
     	input[type="password"]{
     		background-color: transparent;
